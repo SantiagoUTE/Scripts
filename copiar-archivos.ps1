@@ -1,5 +1,5 @@
 # Carpeta origen en el servidor compartido
-$origen = "\\svrprogramas\compartido"
+$origen = "\\SVRPROGRAMAS\Compartido"
 
 # Carpeta destino en el equipo local
 $destino = "C:\Compartido"
